@@ -1,0 +1,1 @@
+{"description":"The 4AM Commit: Funniest Agent Bug-Fix Message — a program that writes one commit message from an AI agent after a long night fixing its own bugs.","license":"MIT","main":"main.ts","name":"4am-commit-bugfix-message","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
